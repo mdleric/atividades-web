@@ -31,6 +31,6 @@ Este repositório contém as atividades realizadas na disciplina, organizadas de
 | 9 | Atividade 9 | [Clique aqui](https://mdleric.github.io/webdev9/) |
 | 10 | Atividade 10 | [Clique aqui]( https://mdleric.github.io/webdev10/) |
 | 11 | Atividade 11 | [Clique aqui](https://mdleric.github.io/webdev11/) |
-| 12 | Atividade 12 | [Clique aqui]( https://7777755134.github.io/atividade12-web/) |
+| 12 | Atividade 12 | [Clique aqui](https://mdleric.github.io/webdev12/) |
 | 13 | Atividade 13 | [Clique aqui](https://7777755134.github.io/atividade13-web/) |
 | 14 | Atividade 14 | [Clique aqui](https://7777755134.github.io/atividade14-web/) |
