@@ -6,7 +6,7 @@ Bem-vindo ao repositório das atividades de *Desenvolvimento Web* realizadas no 
 
 ### 📚 *Informações*
 
-- *Aluno:* Vinícius Rielmison Rocha de Sousa
+- *Aluno:* Eric Vale
 - *Escola:* IFCE - Campus Maranguape
 - *Curso:* Informática
 - *Disciplina:* Desenvolvimento Web
